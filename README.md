@@ -65,5 +65,4 @@ This project was created to practice:
 
 Author
 
-Aron Saini Zach# Python-Traffic-Signal
-A Python-based basic traffic signal simulation project.
+Aron Saini Zach
